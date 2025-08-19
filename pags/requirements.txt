@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+opencv-python-headless
+numpy
+scipy
